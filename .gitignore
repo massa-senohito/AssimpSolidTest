@@ -16,7 +16,6 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
@@ -69,3 +68,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.swp
+*.suo
+*.sdf
+*.log
+*.tlog
+Debug
+*.icph
